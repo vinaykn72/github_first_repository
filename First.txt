@@ -1,2 +1,5 @@
 My First File
 .....
+AWS account id - 891377006169
+sudo apt update
+sudo apt install ansible
